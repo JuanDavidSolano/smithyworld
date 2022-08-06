@@ -1,0 +1,11 @@
+{
+    "id": "smithyworld",
+    "title": "Smithy World - World Building Tool",
+    "description": "A world building tool for Foundry Virtual Tabletop",
+    "authors": [
+        {
+            "name": "JuanSolanoS"
+        }
+    ],
+    "version": "1.0.0"
+}
